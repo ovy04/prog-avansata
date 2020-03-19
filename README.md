@@ -1,1 +1,1 @@
-# prog-avansata
+# Laboratoare Programare Avansata
