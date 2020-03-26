@@ -46,6 +46,7 @@ public class ControlPanel extends JPanel {
     }
     private void reset (ActionEvent e) {
         frame.canvas.sterge();
+        frame.canvas.repaint();
     }
     private void exit (ActionEvent e) {
         frame.dispose();
